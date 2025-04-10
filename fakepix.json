@@ -1,0 +1,19 @@
+{
+    "calendario": {
+        "criacao": "2025-04-10T10:01:10.027563Z",
+        "apresentacao": "2025-04-10T10:01:11.027563Z",
+        "expiracao": 3600
+    },
+    "devedor": {
+        "cpf": "03079508084",
+        "nome": "Marciano Prado"
+    },
+    "valor": {
+        "original": "0.01",
+        "modalidadeAlteracao": 0
+    },
+    "chave": "31a36d8d-b260-4ce8-9902-33e4debf27b6",
+    "txid": "fake1234567890",
+    "status": "ATIVA",
+    "infoAdicionais": []
+}
